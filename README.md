@@ -5,6 +5,5 @@
 - [React](https://ja.legacy.reactjs.org/)
 - [Jotai](https://jotai.org/)
 - [Zod](https://zod.dev/)
-- [Vitest](https://storybook.js.org/)
 - [Playwright](https://playwright.dev/)
 - [Storybook](https://storybook.js.org/)
